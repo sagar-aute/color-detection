@@ -1,1 +1,1 @@
-# color-detection
+# outlier-detection
